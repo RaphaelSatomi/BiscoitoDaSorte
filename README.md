@@ -1,7 +1,7 @@
 # Biscoito da Sorte
 Projeto 2/4 de React Native Básico
 
-# Explicação do Aplicativo 
+## Explicação do Aplicativo 
 Aplicativo simples que ao clicar no botão sorteia uma frase aleatória de biscoito da sorte.
 
 <div style="display: flex; justify-content: center"> 
